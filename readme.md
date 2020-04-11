@@ -25,10 +25,13 @@
 #### Пример работы приложения:
 
 Начальный экран
-![Начальный экран](screenshots/screen1.png)<!-- .element height="50%" width="50%" -->
+
+![Начальный экран](screenshots/screen1.png)
 
 Ввод локации текстом
+
 ![Ввод локации текстом](screenshots/screen2.png)<!-- .element height="50%" width="50%" -->
 
 Ввод локации с помощью геотега
+
 ![Ввод локации с помощью геотега](screenshots/screen3.png)<!-- .element height="50%" width="50%" -->
