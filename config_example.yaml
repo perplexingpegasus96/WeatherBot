@@ -1,0 +1,4 @@
+---
+telegram_token: ""
+weather_api_key: ""
+proxy_url: "socks5h://localhost:9050"
